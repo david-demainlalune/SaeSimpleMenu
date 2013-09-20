@@ -1,8 +1,8 @@
 # SaeSimpleMenu
 
-a very simple menu example for Unity3d. 
-works with the analog input: "Vertical" axis (tested on a 360 controller).  
-Written for my students in the game art cursus (SAE institute geneva). 
+a very simple menu example for Unity3d.  
+works with the analog input: "Vertical" axis (tested on a 360 controller).   
+Written for my students in the game art cursus (SAE institute geneva).  
 
 ## usage
 
